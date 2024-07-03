@@ -5,6 +5,8 @@ members = [
     'build',
     'packages/lib-web/build/',
     'packages/lib-web/lib/',
+    'packages/lib-node/build',
+    'packages/lib-node/lib',
 ]
 
 [metadata.wasm-pack.profile.release]
